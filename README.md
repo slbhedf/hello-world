@@ -8,6 +8,13 @@ I've just created a hello-world project on GitHub according to the web page belo
 
 https://guides.github.com/activities/hello-world/
 
-This file is on readme-edits branch.
+This file is on ~~readme-edits~~ master branch.
 
 It was pretty easy. Thanks for reading.
+
+p.s.
+
+This page is helpful when editing a file.
+
+Basic writing and formatting syntax - GitHub Help
+https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
